@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2018-07-28T13:05:51Z" finished-at="2018-07-28T13:05:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2018-07-28T13:05:51Z" finished-at="2018-07-28T13:05:51Z">
+      <class name="MascamoMedicareblore.brach1.test1">
+        <test-method status="PASS" signature="testsample1()[pri:0, instance:MascamoMedicareblore.brach1.test1@4c70fda8]" name="testsample1" duration-ms="16" started-at="2018-07-28T13:05:51Z" finished-at="2018-07-28T13:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsample1 -->
+      </class> <!-- MascamoMedicareblore.brach1.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
