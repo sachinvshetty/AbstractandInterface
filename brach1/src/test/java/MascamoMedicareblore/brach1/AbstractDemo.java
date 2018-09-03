@@ -34,11 +34,11 @@ abstract class VoxG {
 class polo extends VoxG {
 	
 	public void model() {
-		System.out.println("polo");
+		System.out.println("polo new");
 	}
 
 	public void color() {
-		System.out.println("blue");
+		System.out.println("red");
 	}
 	
 }
